@@ -1,7 +1,5 @@
 # Employee-Mental-Health-Treatment-Prediction
 
-# Employee-Mental-Health-Treatment-Prediction
-
 A project to predict whether an employee in a tech company needs mental health treatment or not based on their background data acquired from their surveys.
 
 ## Final Output:
